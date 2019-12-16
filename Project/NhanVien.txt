@@ -1,0 +1,8 @@
+a|Nam|21|10002|a|Phòng Nhân Sự|Nhân viên|Quản lý nhân sự
+
+ac|Nam|123|10000|ádd|Phòng Nhân Sự|Nhân viên|Quản lý nhân sự
+
+adca|Nam|31|10001|ca|Phòng Nhân Sự|Nhân viên|Quản lý nhân sự
+
+b|Nam|32|10003|td|Phòng Chiến Lược|Nhân viên|c
+

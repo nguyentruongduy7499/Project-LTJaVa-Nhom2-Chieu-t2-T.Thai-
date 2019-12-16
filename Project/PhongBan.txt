@@ -1,0 +1,8 @@
+102|Phòng Chiến Lược|5
+
+100|Phòng Nhân Sự|10
+
+101|Phòng Kế Toán|15
+
+103|B|12
+
